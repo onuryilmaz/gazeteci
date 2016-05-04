@@ -1,4 +1,4 @@
-## Gazeteci
+## Gazeteci [![Build Status](https://travis-ci.org/onuryilmaz/gazeteci.svg?branch=master)](https://travis-ci.org/onuryilmaz/gazeteci)
 * Bu projede Türkçe gazetelere ait haberler toplanarak MongoDB'ye kaydedilmektedir.
 * Şu anda desteklenen gazeteler:
  * [Cumhuriyet](http://www.cumhuriyet.com.tr/)
