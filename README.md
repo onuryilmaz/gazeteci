@@ -8,10 +8,11 @@
  * [Star](http://www.star.com.tr/)
 
 ### Kullanım
-* İşletim sisteminize uygun paketi bağlantıdan indirebilirsiniz:
+* İşletim sisteminize uygun paketi [bağlantıdan](https://github.com/onuryilmaz/gazeteci/releases) indirebilirsiniz:
 ```
 gazeteci [--mongo=MONGO_DB_URL] [--db=MONGO_DB] [--coll=MONGO_COLLECTION]
 ```
+!()[screen-cast.gif]
 
 ### Katkıda Bulunun
  * Her gazete için RSS feed'lerinden haber linkleri toplanmakta ve websiteleri scrap edilerek haber metinlerinin tamamı çekilmektedir.
